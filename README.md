@@ -1,4 +1,4 @@
-## **Stronger - Seu Guia Pessoal para Treinos Montados** 
+## **Stronger - Seu Guia Pessoal para Treinos Montados - Imersão Dev com Google Gemini** 
 https://stronger-kappa.vercel.app/
 
 ### **O que é o Stronger?**
